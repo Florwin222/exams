@@ -1,0 +1,60 @@
+{
+     "Product_details": [
+          {
+               "Product Id": "29642",
+               "Product Name": "Apple Smart Keyboard for iPad (7th generation) and iPad Air (3rd generation) - US English",
+               "Product Price": "649",
+               "Product Image": "https://www.senheng.com.my/media/wysiwyg/sale/LG-Puricare-Webbanner_Skycrapper-v2-D.jpg",
+               "Product Currency": "RM"
+          },
+          {
+               "Product Id": "28560",
+               "Product Name": "Microsoft Surface Slim Pen Black MIC-LLK-00015",
+               "Product Price": "639",
+               "Product Image": "https://www.senheng.com.my/static/version1615332307/frontend/Senheng/default/en_US/images/loader-1.gif",
+               "Product Currency": "RM"
+          },
+          {
+               "Product Id": "32516",
+               "Product Name": "TP-Link AC750 Wireless Dual Band 4G LTE Router Archer MR200",
+               "Product Price": "389",
+               "Product Image": "https://www.senheng.com.my/media/wysiwyg/m2_images/m2_nav_cat/cat-computers-laptops.jpg",
+               "Product Currency": "RM"
+          },
+          {
+               "Product Id": "32483",
+               "Product Name": "TP-Link AC1200 Wireless Dual Band PCI Express Adapter Archer T4E",
+               "Product Price": "115",
+               "Product Image": "https://www.senheng.com.my/media/wysiwyg/m2_images/m2_nav_cat/cat-health-beauty.jpg",
+               "Product Currency": "RM"
+          },
+          {
+               "Product Id": "32622",
+               "Product Name": "TP-Link 300Mbps Wireless N USB Adapter TL-WN821N",
+               "Product Price": "33",
+               "Product Image": "https://www.senheng.com.my/media/catalog/product/m/i/microsoft_surface_pro_x_slim_pen.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=330&width=300&canvas=300:330",
+               "Product Currency": "RM"
+          },
+          {
+               "Product Id": "32381",
+               "Product Name": "TP-Link AX3000 Dual Band Gigabit Wi-Fi 6 Router Archer AX50",
+               "Product Price": "299",
+               "Product Image": "https://www.senheng.com.my/media/catalog/product/m/s/ms-mic-7n9-00028-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=330&width=300&canvas=300:330",
+               "Product Currency": "RM"
+          },
+          {
+               "Product Id": "28558",
+               "Product Name": "Microsoft Surface Pro X Keyboard Black MIC-QJW-00015",
+               "Product Price": "639",
+               "Product Image": "https://www.senheng.com.my/media/catalog/product/d/e/decom9plus-01.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=330&width=300&canvas=300:330",
+               "Product Currency": "RM"
+          },
+          {
+               "Product Id": "34383",
+               "Product Name": "Microsoft Bluetooth Mobile Mouse 3600",
+               "Product Price": "123",
+               "Product Image": "https://www.senheng.com.my/media/catalog/product/w/n/wn722n-01.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=330&width=300&canvas=300:330",
+               "Product Currency": "RM"
+          }
+     ]
+}
