@@ -9,7 +9,7 @@ const fs = require("fs");
 
 //Opening new page and navigating the page
       const page = await browser.newPage();
-      await page.goto('https://www.senheng.com.my/computers-laptops/pc-peripherals.html', {waitUntil: "networkidle2"});
+      await page.goto('', {waitUntil: "networkidle2"});
 
 //Retrieving the Content
       const data = await page.evaluate(() => {
